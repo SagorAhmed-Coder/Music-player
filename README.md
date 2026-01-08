@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 https://github.com/SagorAhmed-Coder/Music-player/blob/main/Screenshot_20260108_225303.png
+https://github.com/SagorAhmed-Coder/Music-player/blob/c7cc131c265330205a4598d3493b6e574dde8b14/Screenshot_20260108_225317.png
